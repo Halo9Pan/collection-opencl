@@ -1,0 +1,6 @@
+[submodule "info"]
+	path = info
+	url = git@github.com:Oblomov/clinfo.git
+[submodule "peak"]
+	path = peak
+	url = git@github.com:krrishnarraj/clpeak.git
