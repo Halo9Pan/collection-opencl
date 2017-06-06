@@ -4,3 +4,6 @@
 [submodule "peak"]
 	path = peak
 	url = git@github.com:krrishnarraj/clpeak.git
+[submodule "blas"]
+	path = blas
+	url = git@github.com:clMathLibraries/clBLAS.git
